@@ -1,0 +1,19 @@
+{
+  "name": "graphql-polling-example",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "tsx ./src/index.ts"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^16.9.0",
+    "resource-id": "^0.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "tsx": "^4.16.0",
+    "typescript": "^5.5.2"
+  }
+}
